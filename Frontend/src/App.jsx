@@ -3,7 +3,7 @@ import React from 'react'
 import "./App.css";
 // import IDECode from './components/IDECode';
 import IDE01 from './components/IDE01';
-import Feedback from './components/form/feedback';
+import Feedback from './components/form/Feedback';
 import NotesPage from './components/pages/NotesPage';
 // import IDE from './components/IDE';
 // import IDE01 from './components/IDE01';
